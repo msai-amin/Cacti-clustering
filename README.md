@@ -1,3 +1,11 @@
+**The original training and test datasets of aerial cactus images for this project are hosted on Kaggle 
+at the following URL: https://www.kaggle.com/datasets/irvingvasquez/cactus-aerial-photos.
+These datasets were created and published by Irving Vasquez as part of the Aerial Cactus Identification competition, 
+which aimed to develop machine learning models for automated cactus detection in aerial imagery.**
+
+
+
+
 Detailed Project Explanation
 Overview
 This project performs unsupervised clustering on aerial images of cacti. 
